@@ -1,0 +1,15 @@
+header{
+    color: blue;
+    font-weight: bolder;
+   
+}
+img{
+    width: 100px;
+    height: 100px;
+    align-content: flex-end; 
+    border: 1px solid peru;
+}
+.desh{
+    color: blue;
+    font-size: 20px;
+}
